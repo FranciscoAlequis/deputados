@@ -1,0 +1,17 @@
+.Navegation{
+    background-color: darkcyan;
+    width: 100%;
+    border: 1px solid darkcyan;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+ul, li {
+    display: inline;
+    padding: 10px;
+}
